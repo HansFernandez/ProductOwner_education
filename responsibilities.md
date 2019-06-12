@@ -30,3 +30,16 @@ Techniques
 
 The above are Goals and a new Product Owner may not achieve all these marks. It is imperative they strive meet theses defined roles.
 
+
+Related Articles and Summary:
+
+https://pando.com/2012/08/09/reid-hoffman-three-disciplines-that-product-focused-founders-need/
+
+In this small article the author relays Reid Hoffman's (Co-founder of LinkedIn) opinion on what skills product-focused founders should posess. Hoffman lists the three primary skills as design, enginerring and product management. Hoffman pushes bakc against the idea that a product-founder needs to be a programmer. Althought he admits it is a strength it is not an area where large focus is needed. 
+
+
+Hoffman continued, stating that a product-focused founder doesn't necessarily need all three, although that is helpful. What's really necessary, though, is to be very strong in at least one of those, and being willing to learn.
+
+Which is what Hoffman did over time, with one key lesson he picked up being that "if you’re not embarassed by your first product release, you released too late."
+
+
