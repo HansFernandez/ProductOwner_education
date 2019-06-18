@@ -2,10 +2,10 @@
 Learning and practicing more about Product Ownership. 
 
 ### Contents
-- [Product Owner Responsibilties](#the-open-source-data-science-masters)
+- [Product Owner Responsibilties]
   - [Responsibilities](responsibilities.md)
-  - [Organizational Structures](#the-internet-is-your-oyster)
-  - [Anti-Patterns](#the-motivation)
+  - [Organizational Structures](organizationalstructures.md)
+  - [Anti-Patterns](POAnti-Patterns.md)
   - [Assignments](Assignment1.md)
 - [Value: How do you know what to build ?](
   - [Old School vs New School]
