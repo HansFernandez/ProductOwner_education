@@ -1,5 +1,5 @@
 ## ProductOwner_education
-Learning and practicing more about Product Ownership. 
+Learning and practicing Product Ownership duties. 
 
 ### Contents
 - [Product Owner Responsibilties]
