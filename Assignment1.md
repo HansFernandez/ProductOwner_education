@@ -10,7 +10,7 @@ Hoffman continued, stating that a product-focused founder doesn't necessarily ne
 Which is what Hoffman did over time, with one key lesson he picked up being that "if you’re not embarassed by your first product release, you released too late."
 
 
-2.https://hbr.org/ideacast/2007/08/harvard-business-ideacast-54-t.html
+2. https://hbr.org/ideacast/2007/08/harvard-business-ideacast-54-t.html
 
 Teams that Lead, Innovate, and Succeed
 Featured Guest: Deborah Ancona, MIT Sloan School of Management professor and coauthor of X-Teams: How to Build Teams that Lead, Innovate, and Succeed.
