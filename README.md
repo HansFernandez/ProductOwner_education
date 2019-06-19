@@ -10,7 +10,6 @@ Learning and practicing Product Ownership duties.
 - [Value: How do you know what to build ?]
   - [Old School vs New School](oldvnew.md)
   - [Lean Startup exercise]
-  - [Assignments]
 - [Communicating with User Stories](#data-science-as-a-profession)
   - [User Stories: Theory and Practice](#capstone-project)
   - [User Story Writing Exercise](#resources)
