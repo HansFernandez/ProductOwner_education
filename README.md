@@ -7,8 +7,8 @@ Learning and practicing Product Ownership duties.
   - [Organizational Structures](organizationalstructures.md)
   - [Anti-Patterns](POAnti-Patterns.md)
   - [Assignments](Assignment1.md)
-- [Value: How do you know what to build ?](
-  - [Old School vs New School]
+- [Value: How do you know what to build ?]
+  - [Old School vs New School](Old School vs New School.MD)
   - [Lean Startup exercise]
   - [Assignments]
 - [Communicating with User Stories](#data-science-as-a-profession)
