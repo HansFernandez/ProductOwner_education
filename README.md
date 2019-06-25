@@ -11,7 +11,7 @@ Learning and practicing Product Ownership duties.
   - [Old School vs New School](oldvnew.md)
 - [Communicating with User Stories]()
   - [User Stories: Theory and Practice](userStories.md)
-  - [User Story Writing Exercise](#resources)
+  - [User Story Writing Exercise](UserStoryWritingExercise.md)
   - [Assignments]
 - [Backlog Refinement]()
   - [How to refine the backlog: Detail, Estimates, Order](#capstone-project)
