@@ -9,17 +9,17 @@ Learning and practicing Product Ownership duties.
   - [Assignments](Assignment1.md)
 - [Value: How do you know what to build ?]
   - [Old School vs New School](oldvnew.md)
-- [Communicating with User Stories]()
+- [Communicating with User Stories]
   - [User Stories: Theory and Practice](userStories.md)
   - [User Story Writing Exercise](UserStoryWritingExercise.md)
   - [Assignments]
 - [Backlog Refinement]()
-  - [How to refine the backlog: Detail, Estimates, Order](#capstone-project)
-  - [Backlog Refinement excercise](#resources)
+  - [How to refine the backlog: Detail, Estimates, Order]
+  - [Backlog Refinement excercise]
   - [Assignments]
 - [Spring  Planning]
-  - [User Stories: Theory and Practice](#capstone-project)
-  - [User Story Writing Exercise](#resources)
+  - [User Stories: Theory and Practice]
+  - [User Story Writing Exercise]
   - [Assignments]
 - [Sprint Review]
   - [Sprint Review: Theory and Practice]
