@@ -12,8 +12,7 @@ Learning and practicing Product Ownership duties.
 - [Communicating with User Stories]
   - [User Stories: Theory and Practice](userStories.md)
   - [User Story Writing Exercise](UserStoryWritingExercise.md)
-  - [Assignments]
 - [Backlog Refinement]()
   - [How to refine the backlog: Detail, Estimates, Order]
   - [Backlog Refinement excercise]
-  - [Assignments]
+
