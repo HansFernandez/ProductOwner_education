@@ -10,11 +10,11 @@ Learning and practicing Product Ownership duties.
 - [Value: How do you know what to build ?]
   - [Old School vs New School](oldvnew.md)
   - [Lean Startup exercise]
-- [Communicating with User Stories](#data-science-as-a-profession)
-  - [User Stories: Theory and Practice](#capstone-project)
+- [Communicating with User Stories]()
+  - [User Stories: Theory and Practice](userStories.md)
   - [User Story Writing Exercise](#resources)
   - [Assignments]
-- [Backlog Refinement](#data-science-as-a-profession)
+- [Backlog Refinement]()
   - [How to refine the backlog: Detail, Estimates, Order](#capstone-project)
   - [Backlog Refinement excercise](#resources)
   - [Assignments]
