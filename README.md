@@ -9,7 +9,6 @@ Learning and practicing Product Ownership duties.
   - [Assignments](Assignment1.md)
 - [Value: How do you know what to build ?]
   - [Old School vs New School](oldvnew.md)
-  - [Lean Startup exercise]
 - [Communicating with User Stories]()
   - [User Stories: Theory and Practice](userStories.md)
   - [User Story Writing Exercise](#resources)
