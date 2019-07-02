@@ -13,6 +13,6 @@ Learning and practicing Product Ownership duties.
   - [User Stories: Theory and Practice](userStories.md)
   - [User Story Writing Exercise](UserStoryWritingExercise.md)
   - [Mike Cohn Seminar](mike_cohn_tips.md)
-- [Backlog Refinement]()
+- [Backlog Refinement]
   - [How to refine the backlog: Detail, Estimates, Order](backlogrefinement.md)
   - [Backlog Refinement excercise]
