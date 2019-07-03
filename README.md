@@ -16,3 +16,6 @@ Learning and practicing Product Ownership duties.
 - [Backlog Refinement]
   - [How to refine the backlog: Detail, Estimates, Order](backlogrefinement.md)
   - [Backlog Refinement excercise]
+- [Sprint Planning]
+  - [Sprint Planning](sprintplanning.md)
+  - [excercise]
